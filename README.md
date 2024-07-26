@@ -10,7 +10,7 @@
 
 - 四大基本公开课
 
-  - CS50X
+  - [CS50X 中英双语 Bilibili](https://www.bilibili.com/video/BV1tYeBeeEk4/?share_source=copy_web&vd_source=34e7d6e2081c3f2ce5f5123116b3beaf)
 
   - CS106X
 
@@ -22,9 +22,10 @@
 
   - 学习: 算法导论, 灵茶山艾府
 
-  - 刷题: LeetCode, 洛谷
+  - 刷题: `LeetCode`, `洛谷`
+    - [如何科学刷题 - 灵茶山艾府](https://leetcode.cn/circle/discuss/RvFUtj/)
 
-  - 练习比赛: Code Forces, 牛客
+  - 练习比赛: `Code Forces`, `牛客`
 
   - 正式比赛: ACM/ICPC, 蓝桥杯(报名费真坑钱)
 
@@ -40,6 +41,14 @@
 
   - 开眼看世界的能力, 建议多处于英文互联网环境
 
+    - "穿越 bypass · 防火墙 firewall", 常见: `VPN`, `SS`, `SSR`
+
+    - 英文学习:  // ps: "English is the best program language in the world".jpg
+
+      - 阅读能力: 多逛逛英文论坛, 系统设置为英文, 论文原稿...
+
+      - 口语, 听力: 英语兔(`Bilibili`), Neuro(a AI on `Twitch`), TED 演讲...
+
 - 实用资源
 
   - Microsoft 相关资源(多数要求学生邮件账号)
@@ -48,7 +57,11 @@
 
     - `Azure` Linux 虚拟机体验非常不错
 
+    - `Office 365` A1 资格, 除了不能使用电脑桌面端 `Office` 其他体验不错
+
   - 论坛
+
+    - `Github` 前文已经介绍
 
     - `Stack Fverflow` 大型英文QA论坛
 
