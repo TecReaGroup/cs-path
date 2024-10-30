@@ -41,7 +41,7 @@
 
   - 开眼看世界的能力, 建议多处于英文互联网环境
 
-    - "穿越 bypass · 防火墙 firewall", 常见: `VPN`, `SS`, `SSR`
+    - 代理环境...
 
     - 英文学习:  // ps: "English is the best program language in the world".jpg
 
