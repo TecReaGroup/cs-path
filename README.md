@@ -20,9 +20,10 @@
 
 - 算法
 
-  - 学习: 算法导论, 灵茶山艾府
+  - 学习: 算法导论, 灵茶山艾府, ACWing: 系统课以及大佬的代码逻辑学得很舒服
 
   - 刷题: `LeetCode`, `洛谷`
+
     - [如何科学刷题 - 灵茶山艾府](https://leetcode.cn/circle/discuss/RvFUtj/)
 
   - 练习比赛: `Code Forces`, `牛客`
@@ -63,7 +64,7 @@
 
     - `Github` 前文已经介绍
 
-    - `Stack Fverflow` 大型英文QA论坛
+    - `Stack Overflow` 大型英文QA论坛
 
     - `LINUX DO` 中文论坛(社区友好, 规则严苛且合理. 由"秦始皇"创立, 不知道能撑多久)
 
